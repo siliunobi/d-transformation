@@ -1,3 +1,3 @@
-# Source code is under the folder "maude-middleware".
+# Source code is under folder "maude-middleware".
 
-# Python-based tool is under the folder "scripts".
+# Python-based tool is under folder "scripts".
